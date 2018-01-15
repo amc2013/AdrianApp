@@ -13,3 +13,25 @@
  *= require_tree .
  *= require_self
  */
+
+#myCarousel {
+  width: 25%;
+}
+ .item img {
+   width: 100%;
+   max-height: 300px;
+ }
+
+h1 {
+  font-size: 30px;
+  color: red;
+}
+
+.users:visited{
+  font-weight: 600;
+  color: purple;
+}
+
+.users {
+  color: yellow;
+}
